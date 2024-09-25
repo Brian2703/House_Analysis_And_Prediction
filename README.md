@@ -1,11 +1,5 @@
 # HOUSING PRICE ANALYSIS AND PREDICTION
-The real estate industry remains one of the most attractive sectors for both investors and homebuyers, as owning 
-property—whether as an investment or a family home—is a widely shared aspiration. Domain, one of the leading 
-companies in the real estate market, has experienced significant growth, particularly with property prices climbing 
-dramatically in recent years. Real estate encompasses various property types, including houses, apartments, and 
-vacant land, and its trends often reflect the broader economic conditions of a country. Understanding these shifts 
-is key, and my house price prediction project, focusing on Domain's data, aims to shed light on these developments 
-and forecast future market behavior.
+The real estate industry remains one of the most attractive sectors for both investors and homebuyers, as owning property—whether as an investment or a family home—is a widely shared aspiration. Domain, one of the leading companies in the real estate market, has experienced significant growth, particularly with property prices climbing dramatically in recent years. Real estate encompasses various property types, including houses, apartments, and vacant land, and its trends often reflect the broader economic conditions of a country. Understanding these shifts is key, and my house price prediction project, focusing on Domain's data, aims to shed light on these developments and forecast future market behavior.
 
 ## Project Goal
 ![Screenshot 2024-09-25 001524](https://github.com/user-attachments/assets/d0787d97-d1bf-4a45-82cd-71eb8babf950)
