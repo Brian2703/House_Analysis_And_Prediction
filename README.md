@@ -3,6 +3,7 @@ The real estate industry remains one of the most attractive sectors for both inv
 
 ## Project Goal
 ![Screenshot 2024-09-25 001524](https://github.com/user-attachments/assets/d0787d97-d1bf-4a45-82cd-71eb8babf950)
+![Screenshot 2024-11-08 152517](https://github.com/user-attachments/assets/431808bc-71e3-4fe0-ad9f-3c5fd072c30e)
 
 The aim of this Python is to offer an understanding of inquiries;
 * What is the trend and future of real estate market;
@@ -13,7 +14,8 @@ The aim of this Python is to offer an understanding of inquiries;
 * How the property factor impact on housing price (number of bedroom, bathroom, carpark);
 * Which areas have the highest concentration of sold properties;
 * Is linear regression the most suitable model for predicting house sales, or is there another model that demonstrates greater predictive accuracy;
-  
+![Screenshot 2024-11-08 152454](https://github.com/user-attachments/assets/3b9accf9-1d9f-4901-aa80-82cf6f44349f)
+
 ## Statistical Method and Machine Learning model
 ![Screenshot 2024-09-25 001553](https://github.com/user-attachments/assets/98137876-6ced-43ae-8776-9775304941b4)
 
