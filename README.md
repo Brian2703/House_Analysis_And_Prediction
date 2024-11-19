@@ -44,6 +44,8 @@ Additionally, vacant land is the most volatile segment in the real estate indust
     *  Map Analysis
 IV. Data Prediction
 * ARIMA
+      ![Screenshot 2024-11-19 150636](https://github.com/user-attachments/assets/12e1369f-ba4a-4de9-b3fe-fb6d39c2bcac)
+
 * LSTM
       ![Screenshot 2024-11-19 140322](https://github.com/user-attachments/assets/367a7bb7-4fe8-4573-87d7-c431f3a940bc)
 * Random Forest
@@ -51,6 +53,14 @@ IV. Data Prediction
 * Gradient Boosting
 * Results:
 Gradient Boosting with the score at 86.91%, which is higher than the rest in Sales prediction
+ARIMA:
+* R-squared (R²): 0.7626264466072294
+* Mean Absolute Error (MAE): 246899.93365036187
+* Root Mean Square Error (RMSE): 398986.020945228
 
+LSTM:
+* R-squared (R²): 0.7406638766382889
+* Mean Absolute Error (MAE): 291264.4408197813
+* Root Mean Square Error (RMSE): 464352.57341962657
 
 Therefore, by using estimated metrics on 6 models, it reveals the best model in this dataset to improve the accuracy rate in house pricing prediction
