@@ -44,10 +44,10 @@ Additionally, vacant land is the most volatile segment in the real estate indust
     *  Map Analysis
 IV. Data Prediction
 * Linear Regression
-  ![Screenshot 2024-11-19 140353](https://github.com/user-attachments/assets/c2ce986f-2748-4492-9054-bc4fca73ec4a)
+      ![Screenshot 2024-11-19 140353](https://github.com/user-attachments/assets/c2ce986f-2748-4492-9054-bc4fca73ec4a)
 * ARIMA
 * LSTM
-  ![Screenshot 2024-11-19 140322](https://github.com/user-attachments/assets/367a7bb7-4fe8-4573-87d7-c431f3a940bc)
+      ![Screenshot 2024-11-19 140322](https://github.com/user-attachments/assets/367a7bb7-4fe8-4573-87d7-c431f3a940bc)
 * Random Forest
 * Adaboost
 * Gradient Boosting
