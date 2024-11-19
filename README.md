@@ -49,7 +49,8 @@ IV. Data Prediction
 * Random Forest
 * Adaboost
 * Gradient Boosting
-    *Results:
-       ![Screenshot 2024-11-19 144747](https://github.com/user-attachments/assets/1de5256b-fc69-482d-8c8a-70f72067a92b)
+* Results:
+Gradient Boosting with the score at 86.91%, which is higher than the rest in Sales prediction
+
 
 Therefore, by using estimated metrics on 6 models, it reveals the best model in this dataset to improve the accuracy rate in house pricing prediction
