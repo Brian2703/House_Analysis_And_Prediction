@@ -37,9 +37,13 @@ Additionally, vacant land is the most volatile segment in the real estate indust
        * The relationship between housing price with Distance from CBD
        * The relationship between housing price and suburb's feature (Population & Income)
        * Housing Price and Properties's Conviniences Analysis
+         
        ![Screenshot 2024-11-19 135421](https://github.com/user-attachments/assets/44f8e566-dbff-4600-8683-7615e3f15fd8)
+
        ![Screenshot 2024-11-19 135405](https://github.com/user-attachments/assets/994cdc02-3403-45d6-a2cc-a55ed798271c)
+
        ![Screenshot 2024-11-19 135838](https://github.com/user-attachments/assets/2edd6fdd-71af-479a-85e1-43074f88a96c)
+
        ![Screenshot 2024-11-19 135824](https://github.com/user-attachments/assets/a7dafd22-ac06-4140-a337-d8ad4c757e1c)
     *  Map Analysis
 IV. Data Prediction
