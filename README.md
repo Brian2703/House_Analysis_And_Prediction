@@ -43,12 +43,13 @@ Additionally, vacant land is the most volatile segment in the real estate indust
        ![Screenshot 2024-11-19 135824](https://github.com/user-attachments/assets/a7dafd22-ac06-4140-a337-d8ad4c757e1c)
     *  Map Analysis
 IV. Data Prediction
-* Linear Regression
-      ![Screenshot 2024-11-19 140353](https://github.com/user-attachments/assets/c2ce986f-2748-4492-9054-bc4fca73ec4a)
 * ARIMA
 * LSTM
       ![Screenshot 2024-11-19 140322](https://github.com/user-attachments/assets/367a7bb7-4fe8-4573-87d7-c431f3a940bc)
 * Random Forest
 * Adaboost
 * Gradient Boosting
+    *Results:
+       ![Screenshot 2024-11-19 144747](https://github.com/user-attachments/assets/1de5256b-fc69-482d-8c8a-70f72067a92b)
+
 Therefore, by using estimated metrics on 6 models, it reveals the best model in this dataset to improve the accuracy rate in house pricing prediction
