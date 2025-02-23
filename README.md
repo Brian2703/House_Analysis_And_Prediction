@@ -68,7 +68,8 @@ LSTM:
 * Root Mean Square Error (RMSE): 464352.57341962657
   
 V. Conclusion
-The analysis of housing prices reveals several key insights. Firstly, there is a clear correlation between suburb income and housing prices, with higher-income areas generally commanding higher prices. This trend is particularly evident in suburbs where the median income exceeds $50K per year. Additionally, the population size of a suburb also influences housing prices, with medium to large populations (over 5,000 people) associated with higher prices, except in the highest income brackets where population size seems less impactful.
+  
+  The analysis of housing prices reveals several key insights. Firstly, there is a clear correlation between suburb income and housing prices, with higher-income areas generally commanding higher prices. This trend is particularly evident in suburbs where the median income exceeds $50K per year. Additionally, the population size of a suburb also influences housing prices, with medium to large populations (over 5,000 people) associated with higher prices, except in the highest income brackets where population size seems less impactful.
 
 The real estate market experienced a quiet period from 2016, with a notable drop in Q1 2019 due to the pandemic. However, since Q2 2020, the market has shown a strong recovery, peaking in the last quarter of 2021 across all house types. Furthermore, properties without carparks show a dependency on the number of bedrooms and bathrooms, with certain combinations being more expensive. Properties with carparks, particularly those with 1 bedroom and 2 bathrooms, have notably high prices. Lastly, elevation also plays a role in housing prices, with properties at elevations of 150 meters and lower being more expensive on average than those at higher elevations. The number of houses sold also decreases as elevation increases.
 
