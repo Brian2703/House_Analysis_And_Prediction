@@ -1,0 +1,34 @@
+Data Explaination
+1. **Price**: Price of the house. Data type: `int64`.
+
+2. **Date Sold**: Date when the house was sold. Data type: `object`.
+
+3. **Suburb**: Suburb where the house is located. Data type: `object`.
+
+4. **Number of Bathrooms**: Number of bathrooms in the house. Data type: `int64`.
+
+5. **Number of Bedrooms**: Number of bedrooms in the house. Data type: `int64`.
+
+6. **Number of Parking Spaces**: Number of parking spaces associated with the house. Data type: `int64`.
+
+7. **Property Size**: Size of the property in square meters. Data type: `int64`.
+
+8. **Type**: Type of the property (e.g., house, apartment). Data type: `object`.
+
+9. **Suburb Population**: Population of the suburb where the house is located. Data type: `int64`.
+
+10. **Suburb Median Income**: Median income of residents in the suburb. Data type: `int64`.
+
+11. **Suburb Area (Square Kilometers)**: Area of the suburb in square kilometers. Data type: `float64`.
+
+12. **Suburb Latitude**: Latitude coordinate of the suburb. Data type: `float64`.
+
+13. **Suburb Longitude**: Longitude coordinate of the suburb. Data type: `float64`.
+
+14. **Suburb Elevation**: Elevation of the suburb. Data type: `int64`.
+
+15. **Cash Rate**: Cash rate, representing the interest rate set by the Reserve Bank of Australia. Data type: `float64`.
+
+16. **Property Inflation Index**: Index representing inflation in property prices. Data type: `float64`.
+
+17. **Distance from CBD (Kilometers)**: Distance from the Central Business District (CBD) in kilometers. Data type: `float64`.

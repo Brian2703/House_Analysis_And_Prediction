@@ -4,3 +4,7 @@ matplotlib
 seaborn
 plotly
 missingno
+scikit-learn
+tensorflow
+pmdarima
+folium
