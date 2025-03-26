@@ -17,7 +17,11 @@ III. Exploratory Data Analysis (EDA)
      * Outlier Detection and Removal
   3. Data Analysis and Visualization
      * Overview of Domain Performance (2016-2021)
-      ![1](https://github.com/user-attachments/imgs/1.png)
+      ![1](https://github.com/Brian2703/House_Analysis_And_Prediction/blob/main/imgs/1.png)
+
+
+
+
 IV. Data Prediction
 * ARIMA
 * LSTM
