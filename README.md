@@ -21,9 +21,10 @@ III. Exploratory Data Analysis (EDA)
      * Overview of Domain Performance (2016-2021)
       ![1](https://github.com/Brian2703/House_Analysis_And_Prediction/blob/main/imgs/1.png)
 
+     * Overview of Domain Performance (2016-2021)
       ![2](https://github.com/Brian2703/House_Analysis_And_Prediction/blob/main/imgs/3.png)
 
-      See more in this report https://www.canva.com/design/DAGimzCC8Zk/nS9NA_zx5TzjrXwKFhFU7A/view?utm_content=DAGimzCC8Zk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h512fedde4e
+     * See more in this report: https://www.canva.com/design/DAGimzCC8Zk/nS9NA_zx5TzjrXwKFhFU7A/view?utm_content=DAGimzCC8Zk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h512fedde4e
 
 
 IV. Data Prediction
