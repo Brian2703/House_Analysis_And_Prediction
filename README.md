@@ -17,60 +17,37 @@ III. Exploratory Data Analysis (EDA)
      * Outlier Detection and Removal
   3. Data Analysis and Visualization
      * Overview of Domain Performance (2016-2021)
-      ![Screenshot 2024-11-19 134824](https://github.com/user-attachments/assets/72911f0a-7efc-4feb-973d-9544651a4108)
-      Generally, houses have dominated the real estate market since 2016 in the Domain     dataset, making up 88.7% of the company’s revenue. Apartments account for 4.5% of total sales, vacant land for 1%, and other types of housing, such as semi-attached houses and studios, for 5.8%.
-      ![Screenshot 2024-11-19 134926](https://github.com/user-attachments/assets/47f8ce8a-c553-4b0a-86ee-8d030a800f15)
-      The real estate industry experienced a quiet period starting in 2016, with three house types reaching their lowest points in five years. Then, it began to recover in Q2 2020 after a dramatic drop in Q1 2019 due to the pandemic’s impact. By the last quarter of 2021, every house type had hit its peak, particularly, 4.4 Billion for house, 173 Million dollars for Apartment and almost 30 Million dollars for vacant land.
-      ![Screenshot 2024-11-19 135055](https://github.com/user-attachments/assets/c393e19c-7c7f-4f82-ab2d-42566e8aad97)
-      ![Screenshot 2024-11-19 135107](https://github.com/user-attachments/assets/492e054a-734f-4578-951f-0ed58151eb0d)
-      By looking at the chart, we can see that real estate transactions have dramatically increased recently, especially since 2021. Every house type has seen a significant rise, hitting a peak in the last quarter of 2021. This can be explained by the impact of the pandemic in 2019 and 2020. After that quiet period, the real estate market recovered strongly compared to 2019 and earlier.
-
-     * Average Price of Properties by Segment through years
-      ![Screenshot 2024-11-19 135222](https://github.com/user-attachments/assets/f612288e-cd04-40d0-a2ce-365d5ef41677)
-     We can clearly see that the average prices of houses and apartments remained stable and slightly decreased from 2016 to 2018. Especially for apartments, the price dramatically went down to 0.89M in 2019, while house prices reached 1.4M that year. After 2019, both prices increased, reaching 2.04M for houses and 1.5M for apartments in 2021.
-Additionally, vacant land is the most volatile segment in the real estate industry. After declining from 2017 to 2019, its price rose until 2021. This can be explained in two ways: either the real price of vacant land is increasing, or the recent transactions of vacant land are too few but involve larger amounts of money. However, in this dataset, we don’t have enough data about vacant land to draw a definitive conclusion.
-
-     * Suburb Housing Price Overview
-      ![Screenshot 2024-11-19 135350](https://github.com/user-attachments/assets/8f70993a-dd67-48c1-b3e9-1cfe48f129e7)
-    *  Feature Relationship
-       * The relationship between housing price with suburb elevation
-       * The relationship between housing price with Distance from CBD
-       * The relationship between housing price and suburb's feature (Population & Income)
-       * Housing Price and Properties's Conviniences Analysis
-         
-       ![Screenshot 2024-11-19 135421](https://github.com/user-attachments/assets/44f8e566-dbff-4600-8683-7615e3f15fd8)
-
-       ![Screenshot 2024-11-19 135405](https://github.com/user-attachments/assets/994cdc02-3403-45d6-a2cc-a55ed798271c)
-
-       ![Screenshot 2024-11-19 135838](https://github.com/user-attachments/assets/2edd6fdd-71af-479a-85e1-43074f88a96c)
-
-       ![Screenshot 2024-11-19 135824](https://github.com/user-attachments/assets/a7dafd22-ac06-4140-a337-d8ad4c757e1c)
-    *  Map Analysis
+      ![1](https://github.com/user-attachments/imgs/1.png)
 IV. Data Prediction
 * ARIMA
-      ![Screenshot 2024-11-19 150636](https://github.com/user-attachments/assets/12e1369f-ba4a-4de9-b3fe-fb6d39c2bcac)
-
 * LSTM
-      ![Screenshot 2024-11-19 140322](https://github.com/user-attachments/assets/367a7bb7-4fe8-4573-87d7-c431f3a940bc)
 * Random Forest
-* Adaboost
 * Gradient Boosting
 * Results:
-Gradient Boosting with the score at 86.91%, which is higher than the rest in Sales prediction
-ARIMA:
-* R-squared (R²): 0.7626264466072294
-* Mean Absolute Error (MAE): 246899.93365036187
-* Root Mean Square Error (RMSE): 398986.020945228
 
-LSTM:
-* R-squared (R²): 0.7406638766382889
-* Mean Absolute Error (MAE): 291264.4408197813
-* Root Mean Square Error (RMSE): 464352.57341962657
-  
-V. Conclusion
-  
-  The analysis of housing prices reveals several key insights. Firstly, there is a clear correlation between suburb income and housing prices, with higher-income areas generally commanding higher prices. This trend is particularly evident in suburbs where the median income exceeds $50K per year. Additionally, the population size of a suburb also influences housing prices, with medium to large populations (over 5,000 people) associated with higher prices, except in the highest income brackets where population size seems less impactful.
+* Based on the evaluation metrics, choosing Gradient Boosting Regression is the most appropriate decision for this project. It achieved the highest R² score of nearly 0.82, which means that the model is able to explain approximately 82% of the variability in house prices — indicating strong predictive power.
+* It also recorded the lowest MAE of 210,000, meaning that, on average, the predicted house prices differ from the actual prices by only $210K — a relatively low error given the scale of property prices. Furthermore, the model delivered the lowest MAPE of 13%, showing that the average prediction error is only 13% relative to actual values, making it a highly reliable model for estimating property prices.
 
-The real estate market experienced a quiet period from 2016, with a notable drop in Q1 2019 due to the pandemic. However, since Q2 2020, the market has shown a strong recovery, peaking in the last quarter of 2021 across all house types. Furthermore, properties without carparks show a dependency on the number of bedrooms and bathrooms, with certain combinations being more expensive. Properties with carparks, particularly those with 1 bedroom and 2 bathrooms, have notably high prices. Lastly, elevation also plays a role in housing prices, with properties at elevations of 150 meters and lower being more expensive on average than those at higher elevations. The number of houses sold also decreases as elevation increases.
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/spam-email-classification.git
+   cd spam-email-classification
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Jupyter Notebook for model training:
+   ```bash
+   jupyter notebook NSW_House_Price_Analytics_&_Prediction.ipynb
+   ```
 
-Overall, Gradient Boosting is the most suitable model in this case because the five-year cycle of data is not well-aligned with a linear model, especially during a period of significant change in NSW, marked by high inflation and the impacts of the COVID-19 pandemic. The non-linear trends during this time make it difficult for linear regression to capture sudden shifts. Additionally, Random Forest can account for various factors. Therefore, by using estimated metrics on 6 models, it reveals the best model in this dataset to improve the accuracy rate in house pricing prediction
+## License
+This project is open-source and available under the MIT License.
+
+## Contributors
+- Brian Ong
+
+For any inquiries or contributions, feel free to reach out!
+
