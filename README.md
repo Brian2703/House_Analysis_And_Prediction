@@ -1,6 +1,8 @@
 # HOUSING PRICE ANALYSIS AND PREDICTION
 The real estate industry remains one of the most attractive sectors for both investors and homebuyers, as owning property - whether as an investment or a family home—is a widely shared aspiration. Domain, one of the leading companies in the real estate market, has experienced significant growth, particularly with property prices climbing dramatically in recent years. Real estate encompasses various property types, including houses, apartments, and vacant land, and its trends often reflect the broader economic conditions of a country. Understanding these shifts is key, and my house price prediction project, focusing on Domain's data, aims to shed light on these developments and forecast future market behavior.
 
+Report available here: https://www.canva.com/design/DAGimzCC8Zk/nS9NA_zx5TzjrXwKFhFU7A/view?utm_content=DAGimzCC8Zk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h512fedde4e
+
 ## Project Outline
 I. Introduction
   1. Overview Of Project
@@ -19,7 +21,9 @@ III. Exploratory Data Analysis (EDA)
      * Overview of Domain Performance (2016-2021)
       ![1](https://github.com/Brian2703/House_Analysis_And_Prediction/blob/main/imgs/1.png)
 
+      ![2](https://github.com/Brian2703/House_Analysis_And_Prediction/blob/main/imgs/3.png)
 
+      See more in this report https://www.canva.com/design/DAGimzCC8Zk/nS9NA_zx5TzjrXwKFhFU7A/view?utm_content=DAGimzCC8Zk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h512fedde4e
 
 
 IV. Data Prediction
