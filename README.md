@@ -34,8 +34,8 @@ IV. Data Prediction
 * Gradient Boosting
 * Results:
 
-* Based on the evaluation metrics, choosing Gradient Boosting Regression is the most appropriate decision for this project. It achieved the highest R² score of nearly 0.82, which means that the model is able to explain approximately 82% of the variability in house prices — indicating strong predictive power.
-* It also recorded the lowest MAE of 210,000, meaning that, on average, the predicted house prices differ from the actual prices by only $210K — a relatively low error given the scale of property prices. Furthermore, the model delivered the lowest MAPE of 13%, showing that the average prediction error is only 13% relative to actual values, making it a highly reliable model for estimating property prices.
+  *  Based on the evaluation metrics, choosing Gradient Boosting Regression is the most appropriate decision for this project. It achieved the highest R² score of nearly 0.82, which means that the model is able to explain approximately 82% of the variability in house prices — indicating strong predictive power.
+  * It also recorded the lowest MAE of 210,000, meaning that, on average, the predicted house prices differ from the actual prices by only $210K — a relatively low error given the scale of property prices. Furthermore, the model delivered the lowest MAPE of 13%, showing that the average prediction error is only 13% relative to actual values, making it a highly reliable model for estimating property prices.
 
 ## Getting Started
 1. Clone the repository:
